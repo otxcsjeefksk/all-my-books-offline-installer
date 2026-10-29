@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Book+Cataloging-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Book+Catalog-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 All My Books Free Installer** — All My Books is a Windows book cataloging software that helps readers organize their personal book collections. Works without internet access, no account required. Full offline installation.
+**💻 All My Books Free Installer** — All My Books is a Windows personal book library manager that helps catalog paper books, ebooks, and audiobooks. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About All My Books
 
-All My Books is a Windows book cataloging software that helps readers organize their personal book collections. Automatically fetch book data from Amazon and other online databases by scanning barcodes or entering ISBN numbers. Create reading lists, track reading progress, export catalogs, and generate statistics about your library — a must-have tool for serious book collectors.
+All My Books is a Windows personal book library manager that helps catalog paper books, ebooks, and audiobooks. It features online metadata lookup by ISBN, reading progress tracking, wishlist management, and statistics about your reading habits.
 
 ---
 
 ## ❌ Problem: All My Books is hard to access
 
-- **Windows Only** — No macOS version available
-- **Database Dependency** — Book lookup requires internet connection
-- **One-Time Purchase** — No subscription, but updates may require additional payment
-- **Large Library Performance** — Very large collections can slow down the interface
+- **Windows Only** — No macOS or Linux version available
+- **Paid License** — Requires purchase
+- **Online Metadata Dependency** — Catalog relies on internet access for automatic book information
+- **Declining Physical Books** — Most useful for physical book collections in the streaming ebook era
 
 ---
 
@@ -121,7 +121,7 @@ All My Books is a Windows book cataloging software that helps readers organize t
 
 ---
 
-**All My Books Free Installer** — All My Books is a Windows book cataloging software that helps readers organize their personal book collections. Install without internet connection today!
+**All My Books Free Installer** — All My Books is a Windows personal book library manager that helps catalog paper books, ebooks, and audiobooks. Install without internet connection today!
 
 <div align="center">
 
